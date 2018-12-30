@@ -1,0 +1,1 @@
+Requires Dialogic DIVA SDK
